@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0e5c2debee914dc4ea871320ebce0e35
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blender Pro
+  fontNames:
+  - Blender Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e88937c07ec2aaf439b3e2c3c20b68fa, type: 3}
+  - {fileID: 12800000, guid: 52f9f331cdcb5424c8b8b7a2c166c235, type: 3}
+  - {fileID: 12800000, guid: f9e20886df4fa3747b7f13dbdd4a04e4, type: 3}
+  - {fileID: 12800000, guid: 6d180269143643348886a171b86c1343, type: 3}
+  - {fileID: 12800000, guid: d6f7f5ccbd7e0e844afaa6d4c3b5a0fa, type: 3}
+  - {fileID: 12800000, guid: 760fa98e27f70de448d8a10a803a2e54, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
